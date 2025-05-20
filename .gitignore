@@ -9,9 +9,6 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
-/[Ll]ibrary/
-/[Pp]ackages/
-/[Pp]roject[Ss]ettings/
 /[Uu]ser[Ss]ettings/
 *.log
 
@@ -31,7 +28,6 @@
 # some material textures
 /[Aa]ssets/YughuesFreeFlooringMaterials*
 /[Aa]ssets/YughuesFreeConcreteMaterials*
-/[Aa]ssets/YughuesFreeFlooringMaterials*
 
 # Visual Studio cache directory
 .vs/
